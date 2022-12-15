@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aytaç Kılınç</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtoc06&label=Profile%20views&color=0e75b6&style=flat" alt="mrtoc06" /> </p>
-
 - 🔭 I’m currently working on **Statistical Algorithms**
 
 - 🌱 I’m currently learning **Advance JavaScript**
@@ -21,7 +19,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mrtoc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mrtoc" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtoc06&show_icons=true&locale=en&layout=compact" alt="mrtoc06" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtoc06&show_icons=true&locale=en" alt="mrtoc06" /></p>
