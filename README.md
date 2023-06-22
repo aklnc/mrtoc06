@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aytaç Kılınç</h1>
+<h1 align="center">Hi 👋, This is Aytaç</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **React JS Programming**
