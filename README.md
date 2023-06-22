@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, This is Aytaç</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **React JS Programming**
+- 🔭 I’m currently working on **MERN Stack Programming in Ankara/Turkey**
 
-- 🌱 I’m currently learning **Advance JavaScript**
+- 🌱 I’m currently learning **Applications of AI in Web Developement**
 
-- 💬 Ask me about **React.js, Node.js, HTML, CSS, JavaScript**
+- 💬 Ask me about **React.js, Node.js, HTML, CSS, TypeScript**
 
 - 📫 How to reach me **aytac.klnc44@gmail.com**
 
